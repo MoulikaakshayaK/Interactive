@@ -29,6 +29,9 @@ Publish the website in the given URL.
 
 ```
 ## OUTPUT:
+![Screenshot 2025-05-12 221213](https://github.com/user-attachments/assets/cc28253d-8ab4-43f8-87a9-3914836df8dd)
+
+![Screenshot 2025-05-12 221259](https://github.com/user-attachments/assets/bd81c3d8-cd9c-4d94-b0f8-c7314649b063)
 
 
 ## RESULT:
