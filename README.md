@@ -932,6 +932,17 @@ admin.html
 ```
 
 ## OUTPUT:
+![Screenshot 2025-05-12 215235](https://github.com/user-attachments/assets/d4e66c4d-8664-4cee-9c16-efa1e30cc2e7)
+![Screenshot 2025-05-12 215316](https://github.com/user-attachments/assets/dbc5ba9a-37be-4aa6-993c-a731ab5eb6a4)
+![Screenshot 2025-05-12 215339](https://github.com/user-attachments/assets/ad5cd9e2-f4fa-466f-8ca2-e86d00d4a56e)
+![Screenshot 2025-05-12 215355](https://github.com/user-attachments/assets/a07974de-1e5d-4f9f-a63d-a1beffe8c920)
+![Screenshot 2025-05-12 215429](https://github.com/user-attachments/assets/34a8a11e-4119-4b49-8e13-f088cfab0bf3)
+![Screenshot 2025-05-12 215448](https://github.com/user-attachments/assets/38dd65a6-01fc-4223-b8bb-fea619f0ef65)
+
+
+
+
+
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
